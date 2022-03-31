@@ -1,4 +1,4 @@
-# Redes de computadores
+# Rede de computadores
 
 <p> Este é um Projeto sobre o SMTP (Simple Mail Transfer Protocol), onde sera disponibilizado uma pequena apresentação contendo a Definição, Caracteristica, Problemas, Protocos correlacionados e a Implementação pratica do SMTP. </p>
 
