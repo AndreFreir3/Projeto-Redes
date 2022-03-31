@@ -8,5 +8,5 @@
   
  <h2>Autores e Contribuições</h2>
   
-  <p> Este projeto final da disciplina de Rede de Computadores do Curso de Ciência da computação da Univasf Campus Salgueiro, foi feito por <a href="https://github.com/AndreFreir3"> André</a>, Marcileide Oliveira e Jeferson Marques sobe a orientação de <a href="https://github.com/marcosbiao"> Marcos Bião</a> </p>
+  <p> Este projeto final da disciplina de Rede de Computadores do Curso de Ciência da computação da Univasf Campus Salgueiro, foi feito por <a href="https://github.com/AndreFreir3"> André</a>, Marcileide Oliveira e Jeferson Marques sobe a orientação de <a href="https://github.com/marcosbiao"> Marcos Bião</a>. </p>
 
