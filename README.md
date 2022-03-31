@@ -3,7 +3,7 @@
 <p> Este é um Projeto sobre o SMTP (Simple Mail Transfer Protocol), onde sera disponibilizado uma pequena apresentação contendo a Definição, Caracteristica, Problemas, Protocos correlacionados e a Implementação pratica do SMTP. </p>
 
 <p> O conteudo assume que o leitor tenha um conhecimento previo sobre o que são protocolos. caso o Leitor seja leigo no assunto, pode acessar o post sobre 
-<a href="https://www.opservices.com.br/protocolos-de-rede/#:~:text=Protocolos%20de%20rede%20s%C3%A3o%20os%20conjuntos%20de%20normas,qualquer%20fabricante%2C%20por%20meio%20de%20qualquer%20sistema%20operacional.">Os principais protocolos de rede e seu uso</a> </p>
+<a href="https://www.opservices.com.br/protocolos-de-rede/#:~:text=Protocolos%20de%20rede%20s%C3%A3o%20os%20conjuntos%20de%20normas,qualquer%20fabricante%2C%20por%20meio%20de%20qualquer%20sistema%20operacional.">Os principais protocolos de rede e seu uso</a>. </p>
   
   
  <h2>Autores e Contribuições</h2>
